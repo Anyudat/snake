@@ -1,0 +1,1 @@
+export const FEJ = "url('./kepek/snake.png')";
